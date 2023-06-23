@@ -47,7 +47,7 @@ function bangbang(key){
             break;
 
         case "j":
-            var audio=new Audio('./drum-kit/sounds/snare.mp3');
+            var audio=new Audio('sounds/snare.mp3');
             audio.play();
              
             break;
