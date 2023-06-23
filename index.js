@@ -22,13 +22,13 @@ function bangbang(key){
 
     switch (key) {
         case "w":
-            var audio=new Audio('./drum-kit/sounds/tom-1.mp3');
+            var audio=new Audio('./sounds/tom-1.mp3');
             audio.play();
             
             break;
 
         case "a":
-            var audio=new Audio('./drum-kit/sounds/tom-2.mp3');
+            var audio=new Audio('../sounds/tom-2.mp3');
             audio.play();
             
             break;    
