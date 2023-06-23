@@ -41,7 +41,7 @@ function bangbang(key){
 
         
         case "d":
-            var audio=new Audio('./drum-kit/sounds/tom-4.mp3');
+            var audio=new Audio('drum-kit/sounds/tom-4.mp3');
             audio.play();
             
             break;
