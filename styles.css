@@ -35,11 +35,11 @@ footer {
 }
 
 .j {
-  background-image: url(./images/snare.png);
+  background-image: url(.images/snare.png);
 }
 
 .k {
-  background-image: url(./images/crash.png);
+  background-image: url(./drum-kit/images/crash.png);
 }
 
 .l {
